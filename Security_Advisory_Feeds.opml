@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Ocraz' </title>
+    </head>
+    <body>
+        <outline text="Security Advisories" title="Security Advisories">
+            <outline type="rss" text="Alert RSS" title="Alert RSS" xmlUrl="https://tools.cisco.com/security/center/psirtrss20/AlertRSS.xml" htmlUrl="https://tools.cisco.com/security/center/psirtrss20/AlertRSS.xml"/>
+            <outline type="rss" text="Latest Security Advisories" title="Latest Security Advisories" xmlUrl="http://www.microsoft.com/technet/security/advisory/RssFeed.aspx?securityadvisory" htmlUrl="https://technet.microsoft.com/en-us/security/advisory"/>
+            <outline type="rss" text="Full Disclosure" title="Full Disclosure" xmlUrl="http://seclists.org/rss/fulldisclosure.rss" htmlUrl="http://seclists.org/#fulldisclosure"/>
+            <outline type="rss" text="Cisco Security Advisory" title="Cisco Security Advisory" xmlUrl="http://tools.cisco.com/security/center/psirtrss20/CiscoSecurityAdvisory.xml" htmlUrl="https://tools.cisco.com/security/center/psirtrss20/CiscoSecurityAdvisory.xml"/>
+        </outline>
+    </body>
+</opml>

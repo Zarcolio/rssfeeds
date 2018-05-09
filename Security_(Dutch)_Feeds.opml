@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Ocraz' Dutch Security Feeds</title>
+    </head>
+    <body>
+        <outline text="Security (NL)" title="Security (NL)">
+            <outline type="rss" text="Infosecurity Magazine" title="Infosecurity Magazine" xmlUrl="http://infosecuritymagazine.nl/feed/" htmlUrl="https://www.infosecuritymagazine.nl"/>
+            <outline type="rss" text="Ius Mentis" title="Ius Mentis" xmlUrl="https://blog.iusmentis.com/feed/" htmlUrl="https://blog.iusmentis.com"/>
+            <outline type="rss" text="SIDN Labs" title="SIDN Labs" xmlUrl="https://www.sidnlabs.nl/rss/weblog/" htmlUrl="https://www.sidnlabs.nl/weblog"/>
+            <outline type="rss" text="Veiligheid – Numrush" title="Veiligheid – Numrush" xmlUrl="http://numrush.nl/channels/global/veiligheid/feed/" htmlUrl="http://numrush.nl"/>
+            <outline type="rss" text="Weblog | Sijmen Ruwhof" title="Weblog | Sijmen Ruwhof" xmlUrl="http://sijmen.ruwhof.net/weblog/feed" htmlUrl="https://sijmen.ruwhof.net/weblog"/>
+            <outline type="rss" text="Publicaties" title="Publicaties" xmlUrl="https://www.ncsc.nl/rss/factsheets" htmlUrl="https://www.ncsc.nl/dienstverlening/expertise-advies/kennisdeling"/>
+            <outline type="rss" text="Security.NL maakt Nederland veilig" title="Security.NL maakt Nederland veilig" xmlUrl="http://www.security.nl/headlines.xml" htmlUrl="https://www.security.nl"/>
+            <outline type="rss" text="Privacy – ZBC Kennisbank" title="Privacy – ZBC Kennisbank" xmlUrl="https://zbc.nu/category/privacy/feed/" htmlUrl="https://zbc.nu"/>
+            <outline type="rss" text="Security – ZBC Kennisbank" title="Security – ZBC Kennisbank" xmlUrl="https://zbc.nu/category/security/feed/" htmlUrl="https://zbc.nu"/>
+            <outline type="rss" text="Rijksoverheid.nl - Nieuwsberichten over het onderwerp Cybercrime" title="Rijksoverheid.nl - Nieuwsberichten over het onderwerp Cybercrime" xmlUrl="https://feeds.rijksoverheid.nl/onderwerpen/cybercrime/nieuws.rss" htmlUrl="https://www.rijksoverheid.nl/"/>
+            <outline type="rss" text="Privacy &amp; Beveiliging - GoT" title="Privacy &amp; Beveiliging - GoT" xmlUrl="http://gathering.tweakers.net/rss/list_topics/73" htmlUrl="https://gathering.tweakers.net/rss/list_topics/73"/>
+            <outline type="rss" text="Matthijs R. Koot's notebook" title="Matthijs R. Koot's notebook" xmlUrl="http://blog.cyberwar.nl/feeds/posts/default" htmlUrl="https://blog.cyberwar.nl"/>
+            <outline type="rss" text="Nieuwsberichten" title="Nieuwsberichten" xmlUrl="https://www.ncsc.nl/rss/nieuws" htmlUrl="https://www.ncsc.nl/actueel/nieuwsberichten"/>
+        </outline>
+    </body>
+</opml>

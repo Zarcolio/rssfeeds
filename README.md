@@ -6,4 +6,4 @@ My personal security feeds divided into:
 * security advisories
 * other security feeds
 
-I'm using Feedly (https://feedly.com/i/my) for reading, storing and exporting my feeds.
+I'm using Feedly (https://feedly.com) for reading, storing and exporting my feeds.

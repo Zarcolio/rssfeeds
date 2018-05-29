@@ -9,10 +9,13 @@
             <outline type="rss" text="Infosecurity Magazine" title="Infosecurity Magazine" xmlUrl="http://infosecuritymagazine.nl/feed/" htmlUrl="https://www.infosecuritymagazine.nl"/>
             <outline type="rss" text="Ius Mentis" title="Ius Mentis" xmlUrl="https://blog.iusmentis.com/feed/" htmlUrl="https://blog.iusmentis.com"/>
             <outline type="rss" text="SIDN Labs" title="SIDN Labs" xmlUrl="https://www.sidnlabs.nl/rss/weblog/" htmlUrl="https://www.sidnlabs.nl/weblog"/>
+            <outline type="rss" text="Networking4all Blog" title="Networking4all Blog" xmlUrl="https://blog.networking4all.com/feed/" htmlUrl="https://blog.networking4all.com"/>
             <outline type="rss" text="Veiligheid – Numrush" title="Veiligheid – Numrush" xmlUrl="http://numrush.nl/channels/global/veiligheid/feed/" htmlUrl="http://numrush.nl"/>
             <outline type="rss" text="Weblog | Sijmen Ruwhof" title="Weblog | Sijmen Ruwhof" xmlUrl="http://sijmen.ruwhof.net/weblog/feed" htmlUrl="https://sijmen.ruwhof.net/weblog"/>
             <outline type="rss" text="Publicaties" title="Publicaties" xmlUrl="https://www.ncsc.nl/rss/factsheets" htmlUrl="https://www.ncsc.nl/dienstverlening/expertise-advies/kennisdeling"/>
+            <outline type="rss" text="Computable" title="Computable" xmlUrl="https://www.computable.nl/overzicht/topics/1276896/security.html?rss=1" htmlUrl="https://www.computable.nl/overzicht/topics/1276896/security.html?rss=1"/>
             <outline type="rss" text="Security.NL maakt Nederland veilig" title="Security.NL maakt Nederland veilig" xmlUrl="http://www.security.nl/headlines.xml" htmlUrl="https://www.security.nl"/>
+            <outline type="rss" text="DataByte Blog" title="DataByte Blog" xmlUrl="https://blog.databyte.nl/blog/rss.xml" htmlUrl="https://blog.databyte.nl/blog"/>
             <outline type="rss" text="Privacy – ZBC Kennisbank" title="Privacy – ZBC Kennisbank" xmlUrl="https://zbc.nu/category/privacy/feed/" htmlUrl="https://zbc.nu"/>
             <outline type="rss" text="Security – ZBC Kennisbank" title="Security – ZBC Kennisbank" xmlUrl="https://zbc.nu/category/security/feed/" htmlUrl="https://zbc.nu"/>
             <outline type="rss" text="Rijksoverheid.nl - Nieuwsberichten over het onderwerp Cybercrime" title="Rijksoverheid.nl - Nieuwsberichten over het onderwerp Cybercrime" xmlUrl="https://feeds.rijksoverheid.nl/onderwerpen/cybercrime/nieuws.rss" htmlUrl="https://www.rijksoverheid.nl/"/>

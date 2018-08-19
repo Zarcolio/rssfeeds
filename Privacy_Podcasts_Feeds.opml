@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Ocraz' Security Podcasts Feeds</title>
+    </head>
+    <body>
+        <outline text="Security podcasts" title="Security podcasts">
+            <outline type="rss" text="Restore Privacy" title="Restore Privacy" xmlUrl="https://restoreprivacy.com/feed/" htmlUrl="https://restoreprivacy.com"/>
+            <outline type="rss" text="CircleID: Privacy" title="CircleID: Privacy" xmlUrl="http://www.circleid.com/rss/topics/privacy" htmlUrl="http://www.circleid.com/topics/"/>
+            <outline type="rss" text="Protegrity" title="Protegrity" xmlUrl="http://www.protegrity.com/feed/" htmlUrl="https://www.protegrity.com"/>
+            <outline type="rss" text="GDPR Associates" title="GDPR Associates" xmlUrl="https://www.gdpr.associates/feed/" htmlUrl="https://www.gdpr.associates"/>
+            <outline type="rss" text="Private Internet Access Blog" title="Private Internet Access Blog" xmlUrl="https://www.privateinternetaccess.com/blog/feed/" htmlUrl="https://www.privateinternetaccess.com/blog"/>
+            <outline type="rss" text="Stories by Privacy International on Medium" title="Stories by Privacy International on Medium" xmlUrl="https://medium.com/feed/@privacyint" htmlUrl="https://medium.com/@privacyint?source=rss-64fdc8de1dd7------2"/>
+            <outline type="rss" text="Yale Privacy Lab" title="Yale Privacy Lab" xmlUrl="https://mastodon.social/users/privacylab.atom" htmlUrl="https://mastodon.social/@privacylab"/>
+            <outline type="rss" text="The Tutanota Blog" title="The Tutanota Blog" xmlUrl="https://tutanota.com/blog/feed.xml" htmlUrl="https://tutanota.com/blog"/>    </body>
+</opml>

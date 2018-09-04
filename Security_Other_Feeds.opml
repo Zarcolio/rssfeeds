@@ -2,10 +2,10 @@
 
 <opml version="1.0">
     <head>
-        <title>Ocraz' Security Feeds</title>
+        <title>Ocraz' Feeds</title>
     </head>
     <body>
-        <outline text="Security" title="Security">
+        <outline text="Security other" title="Security other">
             <outline type="rss" text="University of South Wales:  Information Security &amp; Privacy" title="University of South Wales:  Information Security &amp; Privacy" xmlUrl="http://uwnthesis.wordpress.com/feed/" htmlUrl="https://uwnthesis.wordpress.com"/>
             <outline type="rss" text="SecludIT" title="SecludIT" xmlUrl="https://secludit.com/en/feed/" htmlUrl="https://secludit.com/en"/>
             <outline type="rss" text="Bentham’s Gaze" title="Bentham’s Gaze" xmlUrl="https://www.benthamsgaze.org/feed/" htmlUrl="https://www.benthamsgaze.org"/>

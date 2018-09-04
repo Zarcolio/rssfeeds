@@ -8,9 +8,11 @@
         <outline text="Security (NL)" title="Security (NL)">
             <outline type="rss" text="Infosecurity Magazine" title="Infosecurity Magazine" xmlUrl="http://infosecuritymagazine.nl/feed/" htmlUrl="https://www.infosecuritymagazine.nl"/>
             <outline type="rss" text="Ius Mentis" title="Ius Mentis" xmlUrl="https://blog.iusmentis.com/feed/" htmlUrl="https://blog.iusmentis.com"/>
+            <outline type="rss" text="The S-Unit blogs" title="The S-Unit blogs" xmlUrl="https://www.the-s-unit.nl/blog/feed" htmlUrl="https://www.the-s-unit.nl/blog"/>
             <outline type="rss" text="SIDN Labs" title="SIDN Labs" xmlUrl="https://www.sidnlabs.nl/rss/weblog/" htmlUrl="https://www.sidnlabs.nl/weblog"/>
             <outline type="rss" text="Privacy" title="Privacy" xmlUrl="http://www.agconnect.nl/taxonomy/term/27949/feed" htmlUrl="https://www.agconnect.nl/taxonomy/term/27949"/>
             <outline type="rss" text="Security" title="Security" xmlUrl="http://www.agconnect.nl/taxonomy/term/6793/feed" htmlUrl="https://www.agconnect.nl/topic/security"/>
+            <outline type="rss" text="Alerts – Fraudehelpdesk" title="Alerts – Fraudehelpdesk" xmlUrl="https://www.fraudehelpdesk.nl/alerts/feed/" htmlUrl="https://www.fraudehelpdesk.nl"/>
             <outline type="rss" text="Networking4all Blog" title="Networking4all Blog" xmlUrl="https://blog.networking4all.com/feed/" htmlUrl="https://blog.networking4all.com"/>
             <outline type="rss" text="Veiligheid – Numrush" title="Veiligheid – Numrush" xmlUrl="http://numrush.nl/channels/global/veiligheid/feed/" htmlUrl="http://numrush.nl"/>
             <outline type="rss" text="Weblog | Sijmen Ruwhof" title="Weblog | Sijmen Ruwhof" xmlUrl="http://sijmen.ruwhof.net/weblog/feed" htmlUrl="https://sijmen.ruwhof.net/weblog"/>

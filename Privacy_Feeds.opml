@@ -7,11 +7,23 @@
     <body>
         <outline text="Privacy feeds" title="Privacy feeds">
             <outline type="rss" text="Restore Privacy" title="Restore Privacy" xmlUrl="https://restoreprivacy.com/feed/" htmlUrl="https://restoreprivacy.com"/>
-            <outline type="rss" text="CircleID: Privacy" title="CircleID: Privacy" xmlUrl="http://www.circleid.com/rss/topics/privacy" htmlUrl="http://www.circleid.com/topics/"/>
             <outline type="rss" text="Protegrity" title="Protegrity" xmlUrl="http://www.protegrity.com/feed/" htmlUrl="https://www.protegrity.com"/>
-            <outline type="rss" text="GDPR Associates" title="GDPR Associates" xmlUrl="https://www.gdpr.associates/feed/" htmlUrl="https://www.gdpr.associates"/>
+            <outline type="rss" text="GDPR.Report" title="GDPR.Report" xmlUrl="https://gdpr.report/feed/" htmlUrl="https://gdpr.report"/>
             <outline type="rss" text="Private Internet Access Blog" title="Private Internet Access Blog" xmlUrl="https://www.privateinternetaccess.com/blog/feed/" htmlUrl="https://www.privateinternetaccess.com/blog"/>
+            <outline type="rss" text="IAPP" title="IAPP" xmlUrl="https://privacyassociation.org/rss/daily-dashboard/" htmlUrl="https://iapp.org"/>
+            <outline type="rss" text="Privacy Rights Clearinghouse Data Breaches" title="Privacy Rights Clearinghouse Data Breaches" xmlUrl="https://www.privacyrights.org/breach-rss" htmlUrl="https://www.privacyrights.org/data-breaches/rss.xml"/>
+            <outline type="rss" text="Privacy Matters" title="Privacy Matters" xmlUrl="http://blogs.dlapiper.com/privacymatters/feed/" htmlUrl="https://blogs.dlapiper.com/privacymatters"/>
+            <outline type="rss" text="Privacy &amp; Information Security Law Blog" title="Privacy &amp; Information Security Law Blog" xmlUrl="http://www.huntonprivacyblog.com/feed/" htmlUrl="https://www.huntonprivacyblog.com"/>
+            <outline type="rss" text="CircleID: Privacy" title="CircleID: Privacy" xmlUrl="http://www.circleid.com/rss/topics/privacy" htmlUrl="http://www.circleid.com/topics/"/>
+            <outline type="rss" text="Data protection" title="Data protection" xmlUrl="http://www.guardian.co.uk/technology/data-protection/rss" htmlUrl="https://www.theguardian.com/technology/data-protection"/>
+            <outline type="rss" text="GDPR Associates" title="GDPR Associates" xmlUrl="https://www.gdpr.associates/feed/" htmlUrl="https://www.gdpr.associates"/>
+            <outline type="rss" text="Privacy &amp; Security Law Blog" title="Privacy &amp; Security Law Blog" xmlUrl="http://www.privsecblog.com/index.xml" htmlUrl="https://www.privsecblog.com"/>
+            <outline type="rss" text="Steve Wright: Privacy Culture » Feed" title="Steve Wright: Privacy Culture » Feed" xmlUrl="https://www.privacyculture.com/feed/" htmlUrl="https://www.privacyculture.com"/>
+            <outline type="rss" text="TeachPrivacy" title="TeachPrivacy" xmlUrl="https://www.teachprivacy.com/feed/" htmlUrl="https://teachprivacy.com"/>
             <outline type="rss" text="Stories by Privacy International on Medium" title="Stories by Privacy International on Medium" xmlUrl="https://medium.com/feed/@privacyint" htmlUrl="https://medium.com/@privacyint?source=rss-64fdc8de1dd7------2"/>
+            <outline type="rss" text="Privacy, Security and Information Law" title="Privacy, Security and Information Law" xmlUrl="http://privacylawblog.fieldfisher.com/rss" htmlUrl="https://privacylawblog.fieldfisher.com/"/>
             <outline type="rss" text="Yale Privacy Lab" title="Yale Privacy Lab" xmlUrl="https://mastodon.social/users/privacylab.atom" htmlUrl="https://mastodon.social/@privacylab"/>
+            <outline type="rss" text="News" title="News" xmlUrl="https://edps.europa.eu/feed/news_en" htmlUrl="https://edps.europa.eu/press-publications/press-news/news_en"/>
+            <outline type="rss" text="Data Privacy Monitor" title="Data Privacy Monitor" xmlUrl="http://www.dataprivacymonitor.com/index.xml" htmlUrl="https://www.dataprivacymonitor.com"/>
             <outline type="rss" text="The Tutanota Blog" title="The Tutanota Blog" xmlUrl="https://tutanota.com/blog/feed.xml" htmlUrl="https://tutanota.com/blog"/>
 </opml>

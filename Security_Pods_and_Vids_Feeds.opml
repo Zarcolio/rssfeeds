@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Ocraz' Feeds</title>
+    </head>
+    <body>
+        <outline text="Security pods and vids" title="Security podcasts and videos">
+            <outline type="rss" text="humans-of-infosec" title="humans-of-infosec" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:399444498/sounds.rss" htmlUrl="http://soundcloud.com/humans-of-infosec"/>
+            <outline type="rss" text="Linux Security Podcast" title="Linux Security Podcast" xmlUrl="https://linux-security.libsyn.com/rss" htmlUrl="http://linux-security.libsyn.com/website"/>
+            <outline type="rss" text="The PC Security Channel [TPSC]" title="The PC Security Channel [TPSC]" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKGe7fZ_S788Jaspxg-_5Sg" htmlUrl="https://www.youtube.com/channel/UCKGe7fZ_S788Jaspxg-_5Sg"/>
+            <outline type="rss" text="The first stop for security news | Threatpost" title="The first stop for security news | Threatpost" xmlUrl="https://threatpost.com/category/videos/feed/" htmlUrl="https://threatpost.com"/>
+            <outline type="rss" text="Getting Into Information Security" title="Getting Into Information Security" xmlUrl="https://rss.simplecast.com/podcasts/6981/rss" htmlUrl="https://gettingintoinfosec.simplecast.fm/"/>
+            <outline type="rss" text="Risky Business" title="Risky Business" xmlUrl="http://risky.biz/feeds/risky-business" htmlUrl="https://risky.biz/"/>
+            <outline type="rss" text="The Many Hats Club" title="The Many Hats Club" xmlUrl="https://themanyhats.club/rss/" htmlUrl="https://themanyhats.club/"/>
+            <outline type="rss" text="The first stop for security news | Threatpost" title="The first stop for security news | Threatpost" xmlUrl="https://threatpost.com/category/podcasts/feed/" htmlUrl="https://threatpost.com"/>
+            <outline type="rss" text="InfoSec Weekly Podcast" title="InfoSec Weekly Podcast" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:135076853/sounds.rss" htmlUrl="http://www.itgovernance.co.uk"/>
+            <outline type="rss" text="InfoSec ICU" title="InfoSec ICU" xmlUrl="https://podcast.musc.edu/category/podcast/infosec/feed/" htmlUrl="https://podcast.musc.edu/category/podcast/infosec/"/>
+            <outline type="rss" text="Smashing Security" title="Smashing Security" xmlUrl="http://www.smashingsecurity.com/rss" htmlUrl="https://www.smashingsecurity.com/"/>
+            <outline type="rss" text="InfoCon Archives" title="InfoCon Archives" xmlUrl="https://infocon.org/infocon.org-css/infoconorg-cons.rss" htmlUrl="https://infocon.org/"/>
+            <outline type="rss" text="IntelTechniques Blog" title="IntelTechniques Blog" xmlUrl="https://inteltechniques.com/blog/feed/" htmlUrl="https://inteltechniques.com/blog"/>
+            <outline type="rss" text="The Akamai Blog - Category: Web Security(podcast)" title="The Akamai Blog - Category: Web Security(podcast)" xmlUrl="https://blogs.akamai.com/atom_web_security_podcast.xml" htmlUrl="https://blogs.akamai.com/"/>
+            <outline type="rss" text="Tenable Network Security Podcast" title="Tenable Network Security Podcast" xmlUrl="https://www.tenable.com/TenablePodcast.xml" htmlUrl="http://blog.tenablesecurity.com"/>
+            <outline type="rss" text="Absolute AppSec (uploads) on YouTube" title="Absolute AppSec (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UUo9CDrIB0rJwG4GGz8CZEaQ" htmlUrl="https://youtube.com/playlist?list=UUo9CDrIB0rJwG4GGz8CZEaQ"/>
+            <outline type="rss" text="TrustedSec Security Podcast" title="TrustedSec Security Podcast" xmlUrl="https://www.trustedsec.com/podcasts/trustedsecsecuritypodcast.xml" htmlUrl="http://www.trustedsec.com/podcasts"/>
+            <outline type="rss" text="Cyber Security Sauna" title="Cyber Security Sauna" xmlUrl="http://cybersecuritysauna.libsyn.com/rss" htmlUrl="https://www.f-secure.com/cyber-security-sauna"/>
+            <outline type="rss" text="DEFCONConference" title="DEFCONConference" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6Om9kAkl32dWlDSNlDS9Iw" htmlUrl="https://www.youtube.com/channel/UC6Om9kAkl32dWlDSNlDS9Iw"/>
+            <outline type="rss" text="Exploring Information Security - Timothy De Block" title="Exploring Information Security - Timothy De Block" xmlUrl="http://www.timothydeblock.com/eis?format=rss" htmlUrl="http://www.timothydeblock.com/eis/"/>
+            <outline type="rss" text="Black Hills Information Security" title="Black Hills Information Security" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJ2U9Dq9NckqHMbcUupgF0A" htmlUrl="https://www.youtube.com/channel/UCJ2U9Dq9NckqHMbcUupgF0A"/>
+            <outline type="rss" text="Darknet Diaries" title="Darknet Diaries" xmlUrl="http://feeds.feedburner.com/DarknetDiaries" htmlUrl="https://darknetdiaries.com/"/>
+            <outline type="rss" text="Banking Information Security Podcast" title="Banking Information Security Podcast" xmlUrl="http://www.bankinfosecurity.com/itunes_rss_podcasts.php" htmlUrl="https://www.bankinfosecurity.com/interviews.php"/>
+            <outline type="rss" text="Bugcrowd (uploads) on YouTube" title="Bugcrowd (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UUo1NHk_bgbAbDBc4JinrXww" htmlUrl="https://youtube.com/playlist?list=UUo1NHk_bgbAbDBc4JinrXww"/>
+            <outline type="rss" text="Secure Talk - Cybersecurity" title="Secure Talk - Cybersecurity" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:401169882/sounds.rss" htmlUrl="http://soundcloud.com/user-779694357"/>
+            <outline type="rss" text="Security Weekly" title="Security Weekly" xmlUrl="http://feeds.feedburner.com/pauldotcom/XBIC" htmlUrl="https://securityweekly.com"/>
+    </body>
+</opml>

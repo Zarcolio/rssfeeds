@@ -6,32 +6,41 @@
     </head>
     <body>
         <outline text="Security (NL)" title="Security (NL)">
+            <outline type="rss" text="ICTRecht juridisch adviesbureau" title="ICTRecht juridisch adviesbureau" xmlUrl="http://ictrecht.nl/feed/" htmlUrl="https://ictrecht.nl"/>
             <outline type="rss" text="Infosecurity Magazine" title="Infosecurity Magazine" xmlUrl="http://infosecuritymagazine.nl/feed/" htmlUrl="https://www.infosecuritymagazine.nl"/>
+            <outline type="rss" text="Hackshield" title="Hackshield" xmlUrl="https://hackshield.flavour.nl/feed/" htmlUrl="https://hackshield.flavour.nl"/>
             <outline type="rss" text="The S-Unit blogs" title="The S-Unit blogs" xmlUrl="https://www.the-s-unit.nl/blog/feed" htmlUrl="https://www.the-s-unit.nl/blog"/>
             <outline type="rss" text="SIDN Labs" title="SIDN Labs" xmlUrl="https://www.sidnlabs.nl/rss/weblog/" htmlUrl="https://www.sidnlabs.nl/weblog"/>
             <outline type="rss" text="Alert Online" title="Alert Online" xmlUrl="https://www.alertonline.nl/news.rss" htmlUrl="https://www.alertonline.nl/"/>
+            <outline type="rss" text="Security – ICT Magazine" title="Security – ICT Magazine" xmlUrl="https://www.ictmagazine.nl/category/security-2/feed/" htmlUrl="https://www.ictmagazine.nl"/>
             <outline type="rss" text="Weblog | Sijmen Ruwhof" title="Weblog | Sijmen Ruwhof" xmlUrl="http://sijmen.ruwhof.net/weblog/feed" htmlUrl="https://sijmen.ruwhof.net/weblog"/>
             <outline type="rss" text="Computable" title="Computable" xmlUrl="https://www.computable.nl/overzicht/topics/1276896/security.html?rss=1" htmlUrl="https://www.computable.nl/overzicht/topics/1276896/security.html?rss=1"/>
             <outline type="rss" text="Privacy Barometer" title="Privacy Barometer" xmlUrl="http://www.privacybarometer.nl/feed.xml" htmlUrl="https://www.privacybarometer.nl/feed.xml"/>
+            <outline type="rss" text="RSS-feed Autoriteit Persoonsgegevens" title="RSS-feed Autoriteit Persoonsgegevens" xmlUrl="https://cbpweb.nl/nl/rss" htmlUrl="https://autoriteitpersoonsgegevens.nl/nl/rss"/>
             <outline type="rss" text="Robert 't Hart" title="Robert 't Hart" xmlUrl="https://robertthart.risicomanagement.nl/feed/" htmlUrl="https://robertthart.risicomanagement.nl"/>
+            <outline type="rss" text="Nieuw in onze Dossiers" title="Nieuw in onze Dossiers" xmlUrl="https://www.vrijbit.nl/component/k2/itemlist.feed?moduleID=106" htmlUrl="https://www.vrijbit.nl"/>
             <outline type="rss" text="Privacy – ZBC Kennisbank" title="Privacy – ZBC Kennisbank" xmlUrl="https://zbc.nu/category/privacy/feed/" htmlUrl="https://zbc.nu"/>
             <outline type="rss" text="Security – ZBC Kennisbank" title="Security – ZBC Kennisbank" xmlUrl="https://zbc.nu/category/security/feed/" htmlUrl="https://zbc.nu"/>
             <outline type="rss" text="Rijksoverheid.nl - Nieuwsberichten over het onderwerp Cybercrime" title="Rijksoverheid.nl - Nieuwsberichten over het onderwerp Cybercrime" xmlUrl="https://feeds.rijksoverheid.nl/onderwerpen/cybercrime/nieuws.rss" htmlUrl="https://www.rijksoverheid.nl/"/>
             <outline type="rss" text="Privacy Company" title="Privacy Company" xmlUrl="https://www.privacycompany.eu/rss/" htmlUrl="https://www.privacycompany.eu/"/>
+            <outline type="rss" text="Guardian360" title="Guardian360" xmlUrl="https://www.guardian360.nl/feed/" htmlUrl="https://www.guardian360.nl"/>
             <outline type="rss" text="Nieuwsberichten" title="Nieuwsberichten" xmlUrl="https://www.ncsc.nl/rss/nieuws" htmlUrl="https://www.ncsc.nl/actueel/nieuwsberichten"/>
             <outline type="rss" text="Privacy First" title="Privacy First" xmlUrl="http://www.privacyfirst.nl/component/k2/itemlist.feed" htmlUrl="https://www.privacyfirst.nl"/>
             <outline type="rss" text="Ius Mentis" title="Ius Mentis" xmlUrl="https://blog.iusmentis.com/feed/" htmlUrl="https://blog.iusmentis.com"/>
             <outline type="rss" text="Privacy" title="Privacy" xmlUrl="http://www.agconnect.nl/taxonomy/term/27949/feed" htmlUrl="https://www.agconnect.nl/taxonomy/term/27949"/>
             <outline type="rss" text="Security" title="Security" xmlUrl="http://www.agconnect.nl/taxonomy/term/6793/feed" htmlUrl="https://www.agconnect.nl/topic/security"/>
             <outline type="rss" text="Alerts – Fraudehelpdesk" title="Alerts – Fraudehelpdesk" xmlUrl="https://www.fraudehelpdesk.nl/alerts/feed/" htmlUrl="https://www.fraudehelpdesk.nl"/>
+            <outline type="rss" text="Bits of Freedom" title="Bits of Freedom" xmlUrl="https://www.bof.nl/feed/" htmlUrl="https://www.bitsoffreedom.nl"/>
             <outline type="rss" text="Networking4all Blog" title="Networking4all Blog" xmlUrl="https://blog.networking4all.com/feed/" htmlUrl="https://blog.networking4all.com"/>
             <outline type="rss" text="PrivacyNieuws" title="PrivacyNieuws" xmlUrl="http://www.privacynieuws.nl/?format=feed&amp;type=rss" htmlUrl="https://www.privacynieuws.nl/"/>
             <outline type="rss" text="Veiligheid – Numrush" title="Veiligheid – Numrush" xmlUrl="http://numrush.nl/channels/global/veiligheid/feed/" htmlUrl="http://numrush.nl"/>
             <outline type="rss" text="Securitymanagement.nl" title="Securitymanagement.nl" xmlUrl="https://www.securitymanagement.nl/feed/" htmlUrl="https://www.securitymanagement.nl"/>
             <outline type="rss" text="Publicaties" title="Publicaties" xmlUrl="https://www.ncsc.nl/rss/factsheets" htmlUrl="https://www.ncsc.nl/dienstverlening/expertise-advies/kennisdeling"/>
+            <outline type="rss" text="Security &amp; GDPR Dossier" title="Security &amp; GDPR Dossier" xmlUrl="http://www.security-dossier.nl/feed/" htmlUrl="https://channelconnect.nl/securitydossier"/>
             <outline type="rss" text="Security.NL maakt Nederland veilig" title="Security.NL maakt Nederland veilig" xmlUrl="http://www.security.nl/headlines.xml" htmlUrl="https://www.security.nl"/>
             <outline type="rss" text="RSS" title="RSS" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCxww24aDkpa_vryMgBCaNxQ" htmlUrl="https://www.youtube.com/channel/UCxww24aDkpa_vryMgBCaNxQ"/>
             <outline type="rss" text="DataByte Blog" title="DataByte Blog" xmlUrl="https://blog.databyte.nl/blog/rss.xml" htmlUrl="https://blog.databyte.nl/blog"/>
+            <outline type="rss" text="Defensie.nl - Nieuwsberichten over het onderwerp Cyber security" title="Defensie.nl - Nieuwsberichten over het onderwerp Cyber security" xmlUrl="http://feeds.defensie.nl/onderwerpen/cyber-security/nieuws.rss" htmlUrl="https://www.defensie.nl/"/>
             <outline type="rss" text="Securitywizard" title="Securitywizard" xmlUrl="https://www.securitywizard.nl/feed/" htmlUrl="https://www.securitywizard.nl"/>
             <outline type="rss" text="Privacy &amp; Beveiliging - GoT" title="Privacy &amp; Beveiliging - GoT" xmlUrl="http://gathering.tweakers.net/rss/list_topics/73" htmlUrl="https://gathering.tweakers.net/rss/list_topics/73"/>
             <outline type="rss" text="Matthijs R. Koot's notebook" title="Matthijs R. Koot's notebook" xmlUrl="http://blog.cyberwar.nl/feeds/posts/default" htmlUrl="https://blog.cyberwar.nl"/>

@@ -12,6 +12,7 @@
             <outline type="rss" text="Private Internet Access Blog" title="Private Internet Access Blog" xmlUrl="https://www.privateinternetaccess.com/blog/feed/" htmlUrl="https://www.privateinternetaccess.com/blog"/>
             <outline type="rss" text="IAPP" title="IAPP" xmlUrl="https://privacyassociation.org/rss/daily-dashboard/" htmlUrl="https://iapp.org"/>
             <outline type="rss" text="Privacy Rights Clearinghouse Data Breaches" title="Privacy Rights Clearinghouse Data Breaches" xmlUrl="https://www.privacyrights.org/breach-rss" htmlUrl="https://www.privacyrights.org/data-breaches/rss.xml"/>
+            <outline type="rss" text="MIT News - Privacy" title="MIT News - Privacy" xmlUrl="http://news.mit.edu/rss/topic/privacy" htmlUrl="http://news.mit.edu/topic/mitprivacy-rss.xml"/>
             <outline type="rss" text="Privacy Matters" title="Privacy Matters" xmlUrl="http://blogs.dlapiper.com/privacymatters/feed/" htmlUrl="https://blogs.dlapiper.com/privacymatters"/>
             <outline type="rss" text="Privacy &amp; Information Security Law Blog" title="Privacy &amp; Information Security Law Blog" xmlUrl="http://www.huntonprivacyblog.com/feed/" htmlUrl="https://www.huntonprivacyblog.com"/>
             <outline type="rss" text="CircleID: Privacy" title="CircleID: Privacy" xmlUrl="http://www.circleid.com/rss/topics/privacy" htmlUrl="http://www.circleid.com/topics/"/>
